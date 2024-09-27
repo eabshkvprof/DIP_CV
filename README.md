@@ -31,7 +31,7 @@
 | [Image_05_005](/DIP/Image_05_005.pdf) | [Image_05_005](/DIP/Image_05_005.ipynb) | Оператор (фільтр) Робертса |
 | [Image_05_006](/DIP/Image_05_006.pdf) | [Image_05_006](/DIP/Image_05_006.ipynb) | Оператор (фільтр) Превіта |
 | [Image_05_007](/DIP/Image_05_007.pdf) | [Image_05_007](/DIP/Image_05_007.ipynb) | Оператор (фільтр) Собеля |
-| [Image_08_001](/DIP/Image_05_008.pdf) | [Image_05_008](/DIP/Image_05_008.ipynb) | Оператор (фільтр) Лапласа |
+| [Image_05_008](/DIP/Image_05_008.pdf) | [Image_05_008](/DIP/Image_05_008.ipynb) | Оператор (фільтр) Лапласа |
 |  |  | **МОРФОЛОГІЧНІ ПЕРЕТВОРЕННЯ** |
 
 
