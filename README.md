@@ -33,7 +33,10 @@
 | [Image_05_007](/DIP/Image_05_007.pdf) | [Image_05_007](/DIP/Image_05_007.ipynb) | Оператор (фільтр) Собеля |
 | [Image_05_008](/DIP/Image_05_008.pdf) | [Image_05_008](/DIP/Image_05_008.ipynb) | Оператор (фільтр) Лапласа |
 |  |  | **МОРФОЛОГІЧНІ ПЕРЕТВОРЕННЯ** |
-| | |  |
+| [Image_06_001](/DIP/Image_06_001.pdf) | [Image_06_001](/DIP/Image_06_001.ipynb) | Операції над множинами |
+| [Image_06_002](/DIP/Image_06_002.pdf) | [Image_06_002](/DIP/Image_06_002.ipynb) | Обчислення характеристик (площа, центр тяжіння) |
+| [Image_06_003](/DIP/Image_06_003.pdf) | [Image_06_003](/DIP/Image_06_003.ipynb) | Ерозія (Erode) |
+| [Image_06_004](/DIP/Image_06_004.pdf) | [Image_06_004](/DIP/Image_06_004.ipynb) | Дилатація  (Dilate) |
 
 
 
