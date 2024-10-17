@@ -37,6 +37,7 @@
 | [Image_06_002](/DIP/Image_06_002.pdf) | [Image_06_002](/DIP/Image_06_002.ipynb) | Обчислення характеристик (площа, центр тяжіння) |
 | [Image_06_003](/DIP/Image_06_003.pdf) | [Image_06_003](/DIP/Image_06_003.ipynb) | Ерозія (Erode) |
 | [Image_06_004](/DIP/Image_06_004.pdf) | [Image_06_004](/DIP/Image_06_004.ipynb) | Дилатація  (Dilate) |
+| [Image_06_005](/DIP/Image_06_005.pdf) | [Image_06_005](/DIP/Image_06_005.ipynb) | Дилатація  (Dilate) з використанням бібліотеки Skimage |
 
 
 
