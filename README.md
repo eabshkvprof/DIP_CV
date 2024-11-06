@@ -48,6 +48,10 @@
 | [Image_08_001](/DIP/Image_08_001.pdf) | | Метрики |
 | [Image_08_002](/DIP/Image_08_002.pdf) | | Ковзане вікно |
 | [Image_08_003](/DIP/Image_08_003.pdf) | | Відстань Хемінга. Перцептивний хеш. |
+|  | | ДЕТЕКТОРИ КУТІВ |
+| [Image_09_001](/DIP/Image_09_001.pdf) | | Детектор Moravec |
+| [Image_09_002](/DIP/Image_09_002.pdf) | | Детектор Harris |
+| [Image_09_003](/DIP/Image_09_003.pdf) | | Детектор FAST |
 
 
 
@@ -60,6 +64,7 @@
 | [CV_Image_05_001](/CV/CV_Image_05_101.pdf) | [CV_Image_05_001](/CV/CV_Image_05_101.ipynb) | Нелінійна фільтрація. Медіанний фільтр                  |
 | [CV_Image_05_002](/CV/CV_Image_05_102.pdf) | [CV_Image_05_002](/CV/CV_Image_05_102.ipynb) | Нелінйіна фільтрація.  Фільтри Превітт, Собеля, Лапласа |
 | [CV_Image_06_001](/CV/CV_Image_06_001.pdf) | [CV_Image_06_001](/CV/CV_Image_06_001.ipynb) | Морфологічні перетворення                               |
+| [CV_Image_09_001](/CV/CV_Image_09_001.pdf) |                                              | Детектор FAST                                           |
 
 
 
