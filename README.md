@@ -69,6 +69,8 @@
 | [CV_Image_06_001](/CV/CV_Image_06_001.pdf) | [CV_Image_06_001](/CV/CV_Image_06_001.ipynb) | Морфологічні перетворення                               |
 | [CV_Image_09_001](/CV/CV_Image_09_001.pdf) |                                              | Детектор FAST                                           |
 | [CV_Image_11_001](/CV/CV_Image_11_001.pdf) |                                              | Дескріптор  HOG                                         |
+| [CV_Image_12_001](/CV/CV_Image_12_001.pdf) |                                              | Ознаки Хаара, метод Віола-Дожонс                        |
+| [CV_Image_12_002](/CV/CV_Image_12_002.pdf) |                                              | Ознаки Хаара, метод Віола-Дожонс                        |
 
 
 
