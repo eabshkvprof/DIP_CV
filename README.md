@@ -76,17 +76,17 @@
 
 ### Робота із зображеннями (Python, TensorFlow, Keras)  
 
-| Файл pdf                                         | Файл ipynb | ТЕМА                                                         |
-| ------------------------------------------------ | ---------- | ------------------------------------------------------------ |
-| [TF KERAS CV 01](/KERAS/TF_KERAS_CV_01_001.pdf)  |            | **TensorFlow.**<br />Визначення тензорів                     |
-| [TF KERAS CV 01](/KERAS/TF_KERAS_CV_01_002.pdf)  |            | **TensorFlow.**<br />Операції із тензорами                   |
-| [TF KERAS CV 02](/KERAS/TF_KERAS_CV_02_001.pdf)  |            | **Keras**.<br />Шари нейронних мереж (частина 1). Шари для побудови MLP |
-| [TF KERAS CV 03](/KERAS/TF_KERAS_CV_03_001.pdf)  |            | **TensorFlow**. <br />Датасет MNIST. Класифікатор зображень на основі башатошарового персептрону. |
-| [TF KERAS CV 03](/KERAS/TF_KERAS_CV_03_002.pdf)  |            | **Keras**. <br />Датасет MNIST. Класифікатор зображень на основі башатошарового персептрону. |
-| [TF KERAS CV 04](/KERAS/TF_KERAS_CV_04_001.pdf)  |            | **Keras.**<br /> Шари нейронних мереж (частина 2). Шари для побудови CNN |
-| [TF KERAS CV 04](/KERAS/TF_KERAS_CV_04_002.pdf)  |            | **Keras.**<br />Класифікатор зображень на основі CNN         |
-|                                                  |            |                                                              |
-| [TF KERAS CV 06](/KERAS/TF_KERAS_CV_06_0012.pdf) |            | **Keras.**<br />GAN. Генеративно-змагальна мережа. Генерування MNIST подібних символів |
+| Файл pdf                                        | Файл ipynb | ТЕМА                                                         |
+| ----------------------------------------------- | ---------- | ------------------------------------------------------------ |
+| [TF KERAS CV 01](/KERAS/TF_KERAS_CV_01_001.pdf) |            | **TensorFlow.**<br />Визначення тензорів                     |
+| [TF KERAS CV 01](/KERAS/TF_KERAS_CV_01_002.pdf) |            | **TensorFlow.**<br />Операції із тензорами                   |
+| [TF KERAS CV 02](/KERAS/TF_KERAS_CV_02_001.pdf) |            | **Keras**.<br />Шари нейронних мереж (частина 1). Шари для побудови MLP |
+| [TF KERAS CV 03](/KERAS/TF_KERAS_CV_03_001.pdf) |            | **TensorFlow**. <br />Датасет MNIST. Класифікатор зображень на основі башатошарового персептрону. |
+| [TF KERAS CV 03](/KERAS/TF_KERAS_CV_03_002.pdf) |            | **Keras**. <br />Датасет MNIST. Класифікатор зображень на основі башатошарового персептрону. |
+| [TF KERAS CV 04](/KERAS/TF_KERAS_CV_04_001.pdf) |            | **Keras.**<br /> Шари нейронних мереж (частина 2). Шари для побудови CNN |
+| [TF KERAS CV 04](/KERAS/TF_KERAS_CV_04_002.pdf) |            | **Keras.**<br />Класифікатор зображень на основі CNN         |
+|                                                 |            |                                                              |
+| [TF KERAS CV 06](/KERAS/TF_KERAS_CV_06_001.pdf) |            | **Keras.**<br />GAN. Генеративно-змагальна мережа. Генерування MNIST подібних символів |
 
 
 
