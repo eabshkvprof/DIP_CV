@@ -85,7 +85,8 @@
 | [TF KERAS CV 03](/KERAS/TF_KERAS_CV_03_002.pdf) |            | **Keras**. <br />Датасет MNIST. Класифікатор зображень на основі башатошарового персептрону. |
 | [TF KERAS CV 04](/KERAS/TF_KERAS_CV_04_001.pdf) |            | **Keras.**<br /> Шари нейронних мереж (частина 2). Шари для побудови CNN |
 | [TF KERAS CV 04](/KERAS/TF_KERAS_CV_04_002.pdf) |            | **Keras.**<br />Класифікатор зображень на основі CNN         |
-|                                                 |            |                                                              |
+| [TF KERAS CV 05](/KERAS/TF_KERAS_CV_05_001.pdf) |            | **Keras.**<br />YOLOv3. Детектування та локалізація об'єктів на зображенні |
+| [TF KERAS CV 05](/KERAS/TF_KERAS_CV_05_002.pdf) |            | **Keras.**<br />YOLOv3. Детектування та локалізація об'єктів в відеопотоці |
 | [TF KERAS CV 06](/KERAS/TF_KERAS_CV_06_001.pdf) |            | **Keras.**<br />GAN. Генеративно-змагальна мережа. Генерування MNIST подібних символів |
 
 
