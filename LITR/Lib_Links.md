@@ -25,14 +25,3 @@
 2. [Keras](https://keras.io/)
 3. [Keras HUB : CV](https://keras.io/keras_hub/) Попередньо навчані моделі
 
-
-
-
-
-
-
-
-
-
-
->>>>>>> Stashed changes
