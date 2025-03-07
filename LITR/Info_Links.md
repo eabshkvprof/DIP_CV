@@ -2,5 +2,12 @@
 
 ## Інформаційні ресурси
 
-1. Davies V.R. Computer Vision: Principles, Algorithms, Applications, Learning / Academic Press, 2017- 912 p. 
-2. Vaishya A. Mastering OpenCV with Python Use NumPy, Scikit, TensorFlow, and Matplotlib to learn Advanced algorithms for Machine Learning through a set of Practical Projects / Orange Education Pvt Ltd, Delhi, 2023. – 354 p.
+1. [OpenCV](https://www.youtube.com/@opencvdev)
+2. [OpenCV Course - Full Tutorial with Python](https://www.youtube.com/watch?v=oXlwWbU8l2o)
+3. [OpenCV Python Course - Learn Computer Vision and AI](https://www.youtube.com/watch?v=P4Z8_qe2Cu0)
+4. Велика підбірка прикладів [Roboflow Notebooks](https://github.com/roboflow/notebooks)
+
+
+
+
+
