@@ -8,6 +8,10 @@
 2. [Scikit-image’s documentation](https://scikit-image.org/docs/stable/index.html)
 3. [Scikit-image’s Examples](https://scikit-image.org/docs/stable/index.html)
 
+### Pillow
+
+1. [Pillow](https://pypi.org/project/pillow/)
+
 ### Matplotlib
 
 1. [Matplotlib: Visualization with Python](https://matplotlib.org/)
